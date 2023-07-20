@@ -8,5 +8,8 @@ If the absolute deadlines of 2 jobs is same the one which is cache hot or alread
 be executed first
 If both have have same deadline and neither has been executed job with lower task_id is executed.*/
 
-/*To compile use command: gcc main.c edf.c
-						  ./a.out             */
+/*To compile use command: 
+
+gcc main.c edf.c
+
+./a.out             */
